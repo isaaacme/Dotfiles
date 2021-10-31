@@ -1,3 +1,3 @@
 # Dotfiles
 
-these are my dotfiles. there are many like them, but his ones are mine.
+these are my dotfiles. there are many like them, but this ones are mine.
